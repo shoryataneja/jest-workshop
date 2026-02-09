@@ -1,9 +1,9 @@
 # Jest Workshop Submission
 
 ## Student Details
-- Name:
-- Roll Number:
-- GitHub Username:
+- Name: Shorya Taneja
+- Roll Number: 2024-B-02112006C
+- GitHub Username: solboxon
 
 ---
 
